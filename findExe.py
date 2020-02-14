@@ -5,7 +5,7 @@ Author: Syed Hasan
 Date: 01/01/2020
 Version: 0.1
 
-It's riddles with bugs - though at your discretion to be used! :) 
+It's riddled with bugs - though at your discretion to be used! :) 
 
 '''
 
