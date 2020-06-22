@@ -10,6 +10,9 @@ if hasattr(PE_HEADER, "DIRECTORY_ENTRY_IMPORT"):
         importList = []
         print("Import Entry:", entry.dll.decode('utf-8'))
         for imp in entry.imports:
-            importList.append(imp.name.decode('utf-8'))
+            if imp.name != None:
+                importList.append(imp.name.decode('utf-8'))
+            else:            
+                importList.append(imp.ordinal)
         print(importList)
         print()
