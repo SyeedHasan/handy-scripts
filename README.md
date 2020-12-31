@@ -10,4 +10,5 @@ A short description for each script is provided below:
 | 2      | importsEnumerator      |   Enumerate imports from a PE file |
 | 3 | sniffDNS      |  Sniff DNS traffic and operate on NX domain packets |
 | 4 | loki-parser      | Parse Loki logs to ingest data into an ES instance or a local Excel sheet |
+| 5 | adminCheck      | Use for an administrative privilege check |
 
