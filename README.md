@@ -1,17 +1,13 @@
-# handy-py-scripts
+# handy-scripts
 
-Just a collection of useless python scripts I've written
+Just a collection of scripts I've written or acquired to assist my forensic investigations, log analysis, incident response, or other activities.
 
-### 1. findExe
+A short description for each script is provided below:
 
-Extract executables from hex data (used it on crash memory dumps)
+| No.        | Name           | Description  |
+| ------------- |:-------------:| -----:|
+| 1     | findExe | Extract executables by their header from memory dumps |
+| 2      | importsEnumerator      |   Enumerate imports from a PE file |
+| 3 | sniffDNS      |  Sniff DNS traffic and operate on NX domain packets |
+| 4 | loki-parser      | Parse Loki logs to ingest data into an ES instance or a local Excel sheet |
 
-### 2. imports-enumerator
-
-Extract the list of imports from a PE executable for review
-
-### 3. sniffDNS
-
-Analyze DNS traffic and capture NX domain packets
-
-### 4.
