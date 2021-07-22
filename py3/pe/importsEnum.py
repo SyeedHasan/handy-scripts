@@ -1,10 +1,10 @@
 
 # ====================================
-# title           : imports-enumerator.py
+# title           : importsEnum.py
 # description     : Enumerate imports in a PE file
 # author          : Syed Hasan
 # date            : Jan 03 2020
-# usage           : sudo python3 imports-enumerator.py
+# usage           : sudo python3 importsEnum.py
 # python_version  :3.X
 # ====================================
 

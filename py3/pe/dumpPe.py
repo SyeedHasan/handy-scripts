@@ -1,9 +1,9 @@
 # ====================================
-# title           : findexe.py
+# title           : dumpPe.py
 # description     : Parse a hex file to extract executables (personally used it on crash memory dumps)
 # author          : Syed Hasan
 # date            : Jan 01 2020
-# usage           : sudo python3 findexe.py
+# usage           : sudo python3 dumpPe.py
 # python_version  : 3.X
 # version         : 0.1
 # notes           : It's riddled with bugs - though at your discretion to be used! :)
