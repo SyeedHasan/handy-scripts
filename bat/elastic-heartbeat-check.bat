@@ -1,0 +1,1 @@
+curl -XGET "IP:PORT" -m 3 | findstr "Connection timed out" && Stop-Service winlogbeat
